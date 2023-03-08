@@ -7,6 +7,8 @@ public class RestApiTest {
 	public void  faceBookAdd() {
 		System.out.println("Add 1");
 		System.out.println("Add 2");
+		System.out.println("Add 3");
+		
 		
 	}
 
