@@ -1,4 +1,4 @@
-package io.shital;
+package io.shital.git;
 
 import org.testng.annotations.Test;
 
@@ -7,8 +7,7 @@ public class RestApiTest {
 	public void  faceBookAdd() {
 		System.out.println("Add 1");
 		System.out.println("Add 2");
-		System.out.println("Add 3");
-		
+		System.out.println("Add 3");	
 		
 	}
 
